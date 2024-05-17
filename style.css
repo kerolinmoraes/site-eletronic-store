@@ -102,3 +102,20 @@ footer {
 p {
   justify-content: center;
 }
+
+.preco-1 {
+  width: 25%;
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 80px;
+  text-align: 80%;
+}
+
+.preco-2 {
+  width: 25%;
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 80px;
+  text-align: 80px;
+}
+
