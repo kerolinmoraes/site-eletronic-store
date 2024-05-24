@@ -12,7 +12,7 @@ header {
 
 .cabecalho-lista-1 {
   color: white;
-  margin-left: 260px; /* alinhamento à esquerda */
+  margin-left: 200px; /* alinhamento à esquerda */
   padding: 40px; /* espaçamento vertical */
   display: inline-block;
   justify-content: center;
