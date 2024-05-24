@@ -53,11 +53,11 @@ body {
 .titulo-3 {
   color:black;
   justify-content: center;
-  : 40px;
+  display: flex;
 }
 
 .paragrafo-2 {
-  margin-left: 20px;
+  text-align: center;
   justify-content: center;
 }
 
