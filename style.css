@@ -22,12 +22,18 @@ header {
 }
 
 .cabecalho-lista-2 {
-  color:white;
-  margin-left: 200px;
-  padding: 40px;
+  /* color:white;
+  margin-left: 40px;
+  padding: 20px; */
   display: inline-block;
   justify-content: center;
+  color: white;
+  margin-left: 270px; /* alinhamento à esquerda */
+  padding: 35px; /* espacamento vertical */
+
 }
+
+
 
 body {
   background-color: rgb(252,252,173);
