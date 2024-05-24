@@ -30,10 +30,7 @@ header {
   color: white;
   margin-left: 270px; /* alinhamento à esquerda */
   padding: 35px; /* espacamento vertical */
-
 }
-
-
 
 body {
   background-color: rgb(252,252,173);
@@ -44,10 +41,12 @@ body {
 .titulo-2 {
   color:black;
   justify-content: center;
+  display: flex;
 }
 
+/*PARAMOS AQUI*/
 .paragrafo-1 {
-  margin-left: 20px;
+  text-align: center;
   justify-content: center;
 }
 
