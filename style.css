@@ -57,7 +57,6 @@ body {
 }
 
 .paragrafo-2 {
-  text-align: center;
   justify-content: center;
 }
 
@@ -109,6 +108,7 @@ footer {
 
 p {
   justify-content: center;
+  padding: 20px;
 }
 
 .preco-1 {
